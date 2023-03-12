@@ -1,0 +1,904 @@
+2023-03-11T23:07:45.868-03:00  INFO 271418 --- [io-8080-exec-25] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-11T23:07:45.869-03:00  INFO 271418 --- [io-8080-exec-25] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-03-11T23:07:45.871-03:00  INFO 271418 --- [io-8080-exec-25] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-03-11T23:07:45.928-03:00  INFO 271418 --- [io-8080-exec-50] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-50 => Starts => Waiting 8544 => Counter 15
+2023-03-11T23:07:45.927-03:00  INFO 271418 --- [io-8080-exec-37] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-37 => Starts => Waiting 6912 => Counter 3
+2023-03-11T23:07:45.927-03:00  INFO 271418 --- [io-8080-exec-32] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-32 => Starts => Waiting 5294 => Counter 8
+2023-03-11T23:07:45.928-03:00  INFO 271418 --- [nio-8080-exec-5] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-5 => Starts => Waiting 9552 => Counter 11
+2023-03-11T23:07:45.928-03:00  INFO 271418 --- [io-8080-exec-55] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-55 => Starts => Waiting 6475 => Counter 12
+2023-03-11T23:07:45.928-03:00  INFO 271418 --- [io-8080-exec-13] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-13 => Starts => Waiting 8085 => Counter 13
+2023-03-11T23:07:45.928-03:00  INFO 271418 --- [nio-8080-exec-7] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-7 => Starts => Waiting 9138 => Counter 12
+2023-03-11T23:07:45.930-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Starts => Waiting 5765 => Counter 16
+2023-03-11T23:07:45.927-03:00  INFO 271418 --- [io-8080-exec-43] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-43 => Starts => Waiting 6664 => Counter 9
+2023-03-11T23:07:45.933-03:00  INFO 271418 --- [io-8080-exec-62] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-62 => Starts => Waiting 7154 => Counter 17
+2023-03-11T23:07:45.927-03:00  INFO 271418 --- [io-8080-exec-26] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-26 => Starts => Waiting 5809 => Counter 7
+2023-03-11T23:07:45.933-03:00  INFO 271418 --- [io-8080-exec-26] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-26 => Waiting 5809 => Counter 18
+2023-03-11T23:07:45.936-03:00  INFO 271418 --- [io-8080-exec-60] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-60 => Starts => Waiting 8179 => Counter 20
+2023-03-11T23:07:45.935-03:00  INFO 271418 --- [io-8080-exec-56] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-56 => Starts => Waiting 5452 => Counter 19
+2023-03-11T23:07:45.927-03:00  INFO 271418 --- [io-8080-exec-34] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-34 => Starts => Waiting 8057 => Counter 1
+2023-03-11T23:07:45.936-03:00  INFO 271418 --- [io-8080-exec-34] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-34 => Waiting 8057 => Counter 21
+2023-03-11T23:07:45.936-03:00  INFO 271418 --- [io-8080-exec-56] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-56 => Waiting 5452 => Counter 21
+2023-03-11T23:07:45.936-03:00  INFO 271418 --- [io-8080-exec-20] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-20 => Starts => Waiting 8573 => Counter 21
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-20] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-20 => Waiting 8573 => Counter 22
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [nio-8080-exec-5] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-5 => Waiting 9552 => Counter 22
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-45] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-45 => Starts => Waiting 7182 => Counter 24
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-51] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-51 => Starts => Waiting 6515 => Counter 24
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [nio-8080-exec-6] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-6 => Starts => Waiting 9084 => Counter 25
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-53] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-53 => Starts => Waiting 6768 => Counter 33
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [nio-8080-exec-4] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-4 => Starts => Waiting 5198 => Counter 29
+2023-03-11T23:07:45.927-03:00  INFO 271418 --- [io-8080-exec-48] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-48 => Starts => Waiting 8857 => Counter 6
+2023-03-11T23:07:45.938-03:00  INFO 271418 --- [io-8080-exec-48] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-48 => Waiting 8857 => Counter 33
+2023-03-11T23:07:45.927-03:00  INFO 271418 --- [io-8080-exec-15] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-15 => Starts => Waiting 5429 => Counter 5
+2023-03-11T23:07:45.940-03:00  INFO 271418 --- [io-8080-exec-13] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-13 => Waiting 8085 => Counter 35
+2023-03-11T23:07:45.940-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Waiting 5765 => Counter 35
+2023-03-11T23:07:45.941-03:00  INFO 271418 --- [io-8080-exec-62] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-62 => Waiting 7154 => Counter 35
+2023-03-11T23:07:45.927-03:00  INFO 271418 --- [nio-8080-exec-8] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-8 => Starts => Waiting 6910 => Counter 10
+2023-03-11T23:07:45.927-03:00  INFO 271418 --- [io-8080-exec-19] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-19 => Starts => Waiting 9834 => Counter 2
+2023-03-11T23:07:45.942-03:00  INFO 271418 --- [nio-8080-exec-8] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-8 => Waiting 6910 => Counter 35
+2023-03-11T23:07:45.942-03:00  INFO 271418 --- [nio-8080-exec-1] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-1 => Starts => Waiting 6469 => Counter 36
+2023-03-11T23:07:45.942-03:00  INFO 271418 --- [nio-8080-exec-1] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-1 => Waiting 6469 => Counter 36
+2023-03-11T23:07:45.943-03:00  INFO 271418 --- [io-8080-exec-25] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-25 => Starts => Waiting 9024 => Counter 37
+2023-03-11T23:07:45.943-03:00  INFO 271418 --- [io-8080-exec-25] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-25 => Waiting 9024 => Counter 37
+2023-03-11T23:07:45.944-03:00  INFO 271418 --- [io-8080-exec-43] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-43 => Waiting 6664 => Counter 37
+2023-03-11T23:07:45.944-03:00  INFO 271418 --- [io-8080-exec-12] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-12 => Starts => Waiting 6611 => Counter 38
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-45] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-45 => Waiting 7182 => Counter 25
+2023-03-11T23:07:45.944-03:00  INFO 271418 --- [io-8080-exec-12] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-12 => Waiting 6611 => Counter 38
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-51] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-51 => Waiting 6515 => Counter 25
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [nio-8080-exec-6] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-6 => Waiting 9084 => Counter 25
+2023-03-11T23:07:45.945-03:00  INFO 271418 --- [io-8080-exec-16] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-16 => Starts => Waiting 7025 => Counter 39
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-47] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-47 => Starts => Waiting 8830 => Counter 26
+2023-03-11T23:07:45.945-03:00  INFO 271418 --- [io-8080-exec-16] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-16 => Waiting 7025 => Counter 39
+2023-03-11T23:07:45.945-03:00  INFO 271418 --- [io-8080-exec-47] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-47 => Waiting 8830 => Counter 39
+2023-03-11T23:07:45.945-03:00  INFO 271418 --- [io-8080-exec-65] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-65 => Starts => Waiting 9943 => Counter 40
+2023-03-11T23:07:45.945-03:00  INFO 271418 --- [io-8080-exec-64] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-64 => Starts => Waiting 9623 => Counter 41
+2023-03-11T23:07:45.945-03:00  INFO 271418 --- [io-8080-exec-65] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-65 => Waiting 9943 => Counter 41
+2023-03-11T23:07:45.945-03:00  INFO 271418 --- [io-8080-exec-64] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-64 => Waiting 9623 => Counter 41
+2023-03-11T23:07:45.928-03:00  INFO 271418 --- [io-8080-exec-59] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-59 => Starts => Waiting 9485 => Counter 14
+2023-03-11T23:07:45.946-03:00  INFO 271418 --- [io-8080-exec-35] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-35 => Starts => Waiting 6291 => Counter 42
+2023-03-11T23:07:45.946-03:00  INFO 271418 --- [io-8080-exec-35] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-35 => Waiting 6291 => Counter 42
+2023-03-11T23:07:45.946-03:00  INFO 271418 --- [io-8080-exec-59] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-59 => Waiting 9485 => Counter 42
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-54] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-54 => Starts => Waiting 6883 => Counter 27
+2023-03-11T23:07:45.946-03:00  INFO 271418 --- [io-8080-exec-54] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-54 => Waiting 6883 => Counter 42
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-46] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-46 => Starts => Waiting 9262 => Counter 28
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [io-8080-exec-46] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-46 => Waiting 9262 => Counter 44
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [nio-8080-exec-9] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-9 => Starts => Waiting 6711 => Counter 44
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [io-8080-exec-66] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-66 => Starts => Waiting 8999 => Counter 45
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Starts => Waiting 6252 => Counter 44
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Waiting 6252 => Counter 45
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [io-8080-exec-28] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-28 => Starts => Waiting 7512 => Counter 46
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [io-8080-exec-66] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-66 => Waiting 8999 => Counter 45
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Starts => Waiting 9899 => Counter 47
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [io-8080-exec-28] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-28 => Waiting 7512 => Counter 47
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Waiting 9899 => Counter 47
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [nio-8080-exec-2] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-2 => Starts => Waiting 8887 => Counter 48
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [nio-8080-exec-2] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-2 => Waiting 8887 => Counter 48
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [io-8080-exec-33] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-33 => Starts => Waiting 8114 => Counter 49
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-33] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-33 => Waiting 8114 => Counter 50
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-67] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-67 => Starts => Waiting 6766 => Counter 50
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-67] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-67 => Waiting 6766 => Counter 50
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-30] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-30 => Starts => Waiting 5254 => Counter 51
+2023-03-11T23:07:45.933-03:00  INFO 271418 --- [io-8080-exec-61] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-61 => Starts => Waiting 7820 => Counter 18
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Starts => Waiting 6496 => Counter 52
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Waiting 6496 => Counter 53
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-68] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-68 => Starts => Waiting 9882 => Counter 53
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-49] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-49 => Starts => Waiting 8090 => Counter 31
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-68] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-68 => Waiting 9882 => Counter 53
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-29] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-29 => Starts => Waiting 6198 => Counter 54
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-49] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-49 => Waiting 8090 => Counter 54
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-50] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-50 => Waiting 8544 => Counter 28
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-29] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-29 => Waiting 6198 => Counter 54
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-52] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-52 => Starts => Waiting 5005 => Counter 30
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Starts => Waiting 7999 => Counter 32
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-52] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-52 => Waiting 5005 => Counter 54
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-10] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-10 => Starts => Waiting 8811 => Counter 55
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Waiting 7999 => Counter 55
+2023-03-11T23:07:45.938-03:00  INFO 271418 --- [nio-8080-exec-4] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-4 => Waiting 5198 => Counter 33
+2023-03-11T23:07:45.949-03:00  INFO 271418 --- [io-8080-exec-10] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-10 => Waiting 8811 => Counter 55
+2023-03-11T23:07:45.938-03:00  INFO 271418 --- [io-8080-exec-53] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-53 => Waiting 6768 => Counter 33
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-60] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-60 => Waiting 8179 => Counter 22
+2023-03-11T23:07:45.949-03:00  INFO 271418 --- [io-8080-exec-24] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-24 => Starts => Waiting 8226 => Counter 56
+2023-03-11T23:07:45.949-03:00  INFO 271418 --- [io-8080-exec-63] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-63 => Starts => Waiting 9978 => Counter 57
+2023-03-11T23:07:45.949-03:00  INFO 271418 --- [io-8080-exec-24] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-24 => Waiting 8226 => Counter 57
+2023-03-11T23:07:45.939-03:00  INFO 271418 --- [io-8080-exec-44] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-44 => Starts => Waiting 9825 => Counter 34
+2023-03-11T23:07:45.949-03:00  INFO 271418 --- [io-8080-exec-63] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-63 => Waiting 9978 => Counter 57
+2023-03-11T23:07:45.949-03:00  INFO 271418 --- [io-8080-exec-44] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-44 => Waiting 9825 => Counter 57
+2023-03-11T23:07:45.949-03:00  INFO 271418 --- [io-8080-exec-14] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-14 => Starts => Waiting 5651 => Counter 58
+2023-03-11T23:07:45.940-03:00  INFO 271418 --- [io-8080-exec-32] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-32 => Waiting 5294 => Counter 35
+2023-03-11T23:07:45.949-03:00  INFO 271418 --- [io-8080-exec-14] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-14 => Waiting 5651 => Counter 58
+2023-03-11T23:07:45.939-03:00  INFO 271418 --- [io-8080-exec-31] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-31 => Starts => Waiting 9791 => Counter 35
+2023-03-11T23:07:45.949-03:00  INFO 271418 --- [io-8080-exec-11] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-11 => Starts => Waiting 9596 => Counter 59
+2023-03-11T23:07:45.949-03:00  INFO 271418 --- [io-8080-exec-69] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-69 => Starts => Waiting 6854 => Counter 60
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-11] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-11 => Waiting 9596 => Counter 60
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-31] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-31 => Waiting 9791 => Counter 60
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-69] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-69 => Waiting 6854 => Counter 60
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [nio-8080-exec-3] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-3 => Starts => Waiting 8544 => Counter 61
+2023-03-11T23:07:45.940-03:00  INFO 271418 --- [io-8080-exec-37] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-37 => Waiting 6912 => Counter 35
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [nio-8080-exec-3] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-3 => Waiting 8544 => Counter 61
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-22] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-22 => Starts => Waiting 5792 => Counter 62
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-17] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-17 => Starts => Waiting 5663 => Counter 64
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-22] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-22 => Waiting 5792 => Counter 64
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-17] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-17 => Waiting 5663 => Counter 64
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-23] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-23 => Starts => Waiting 6485 => Counter 65
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-23] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-23 => Waiting 6485 => Counter 65
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Starts => Waiting 9704 => Counter 66
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Waiting 9704 => Counter 66
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-36] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-36 => Starts => Waiting 5577 => Counter 67
+2023-03-11T23:07:45.947-03:00  INFO 271418 --- [nio-8080-exec-9] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-9 => Waiting 6711 => Counter 45
+2023-03-11T23:07:45.951-03:00  INFO 271418 --- [io-8080-exec-36] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-36 => Waiting 5577 => Counter 67
+2023-03-11T23:07:45.951-03:00  INFO 271418 --- [io-8080-exec-70] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-70 => Starts => Waiting 9142 => Counter 68
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-30] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-30 => Waiting 5254 => Counter 51
+2023-03-11T23:07:45.948-03:00  INFO 271418 --- [io-8080-exec-61] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-61 => Waiting 7820 => Counter 51
+2023-03-11T23:07:45.951-03:00  INFO 271418 --- [io-8080-exec-70] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-70 => Waiting 9142 => Counter 68
+2023-03-11T23:07:45.951-03:00  INFO 271418 --- [io-8080-exec-71] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-71 => Starts => Waiting 6683 => Counter 69
+2023-03-11T23:07:45.938-03:00  INFO 271418 --- [nio-8080-exec-7] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-7 => Waiting 9138 => Counter 33
+2023-03-11T23:07:45.938-03:00  INFO 271418 --- [io-8080-exec-55] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-55 => Waiting 6475 => Counter 33
+2023-03-11T23:07:45.927-03:00  INFO 271418 --- [io-8080-exec-40] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-40 => Starts => Waiting 7507 => Counter 4
+2023-03-11T23:07:45.951-03:00  INFO 271418 --- [io-8080-exec-40] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-40 => Waiting 7507 => Counter 69
+2023-03-11T23:07:45.950-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Starts => Waiting 8286 => Counter 63
+2023-03-11T23:07:45.952-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Waiting 8286 => Counter 69
+2023-03-11T23:07:45.951-03:00  INFO 271418 --- [io-8080-exec-71] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-71 => Waiting 6683 => Counter 69
+2023-03-11T23:07:45.952-03:00  INFO 271418 --- [io-8080-exec-72] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-72 => Starts => Waiting 7029 => Counter 70
+2023-03-11T23:07:45.952-03:00  INFO 271418 --- [io-8080-exec-74] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-74 => Starts => Waiting 7576 => Counter 71
+2023-03-11T23:07:45.952-03:00  INFO 271418 --- [io-8080-exec-72] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-72 => Waiting 7029 => Counter 71
+2023-03-11T23:07:45.952-03:00  INFO 271418 --- [io-8080-exec-74] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-74 => Waiting 7576 => Counter 71
+2023-03-11T23:07:45.953-03:00  INFO 271418 --- [io-8080-exec-73] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-73 => Starts => Waiting 8805 => Counter 72
+2023-03-11T23:07:45.953-03:00  INFO 271418 --- [io-8080-exec-73] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-73 => Waiting 8805 => Counter 72
+2023-03-11T23:07:45.953-03:00  INFO 271418 --- [io-8080-exec-75] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-75 => Starts => Waiting 8706 => Counter 73
+2023-03-11T23:07:45.953-03:00  INFO 271418 --- [io-8080-exec-75] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-75 => Waiting 8706 => Counter 73
+2023-03-11T23:07:45.955-03:00  INFO 271418 --- [io-8080-exec-76] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-76 => Starts => Waiting 8106 => Counter 74
+2023-03-11T23:07:45.955-03:00  INFO 271418 --- [io-8080-exec-76] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-76 => Waiting 8106 => Counter 74
+2023-03-11T23:07:45.937-03:00  INFO 271418 --- [io-8080-exec-27] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-27 => Starts => Waiting 5568 => Counter 22
+2023-03-11T23:07:45.942-03:00  INFO 271418 --- [io-8080-exec-19] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-19 => Waiting 9834 => Counter 35
+2023-03-11T23:07:45.959-03:00  INFO 271418 --- [io-8080-exec-77] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-77 => Starts => Waiting 9539 => Counter 76
+2023-03-11T23:07:45.959-03:00  INFO 271418 --- [io-8080-exec-80] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-80 => Starts => Waiting 7430 => Counter 77
+2023-03-11T23:07:45.959-03:00  INFO 271418 --- [io-8080-exec-77] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-77 => Waiting 9539 => Counter 77
+2023-03-11T23:07:45.959-03:00  INFO 271418 --- [io-8080-exec-80] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-80 => Waiting 7430 => Counter 77
+2023-03-11T23:07:45.959-03:00  INFO 271418 --- [io-8080-exec-21] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-21 => Starts => Waiting 5751 => Counter 75
+2023-03-11T23:07:45.959-03:00  INFO 271418 --- [io-8080-exec-27] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-27 => Waiting 5568 => Counter 76
+2023-03-11T23:07:45.959-03:00  INFO 271418 --- [io-8080-exec-21] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-21 => Waiting 5751 => Counter 77
+2023-03-11T23:07:45.939-03:00  INFO 271418 --- [io-8080-exec-15] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-15 => Waiting 5429 => Counter 34
+2023-03-11T23:07:45.960-03:00  INFO 271418 --- [io-8080-exec-82] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-82 => Starts => Waiting 8180 => Counter 78
+2023-03-11T23:07:45.961-03:00  INFO 271418 --- [io-8080-exec-82] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-82 => Waiting 8180 => Counter 78
+2023-03-11T23:07:45.962-03:00  INFO 271418 --- [io-8080-exec-78] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-78 => Starts => Waiting 7620 => Counter 79
+2023-03-11T23:07:45.962-03:00  INFO 271418 --- [io-8080-exec-78] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-78 => Waiting 7620 => Counter 79
+2023-03-11T23:07:45.963-03:00  INFO 271418 --- [io-8080-exec-83] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-83 => Starts => Waiting 8878 => Counter 80
+2023-03-11T23:07:45.963-03:00  INFO 271418 --- [io-8080-exec-83] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-83 => Waiting 8878 => Counter 80
+2023-03-11T23:07:45.964-03:00  INFO 271418 --- [io-8080-exec-81] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-81 => Starts => Waiting 5553 => Counter 81
+2023-03-11T23:07:45.964-03:00  INFO 271418 --- [io-8080-exec-81] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-81 => Waiting 5553 => Counter 81
+2023-03-11T23:07:45.966-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Starts => Waiting 8987 => Counter 82
+2023-03-11T23:07:45.966-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Waiting 8987 => Counter 82
+2023-03-11T23:07:45.968-03:00  INFO 271418 --- [io-8080-exec-86] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-86 => Starts => Waiting 7623 => Counter 83
+2023-03-11T23:07:45.968-03:00  INFO 271418 --- [io-8080-exec-86] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-86 => Waiting 7623 => Counter 83
+2023-03-11T23:07:45.970-03:00  INFO 271418 --- [io-8080-exec-87] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-87 => Starts => Waiting 7392 => Counter 84
+2023-03-11T23:07:45.970-03:00  INFO 271418 --- [io-8080-exec-87] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-87 => Waiting 7392 => Counter 84
+2023-03-11T23:07:45.973-03:00  INFO 271418 --- [io-8080-exec-88] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-88 => Starts => Waiting 7798 => Counter 85
+2023-03-11T23:07:45.974-03:00  INFO 271418 --- [io-8080-exec-88] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-88 => Waiting 7798 => Counter 85
+2023-03-11T23:07:45.979-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Starts => Waiting 7583 => Counter 87
+2023-03-11T23:07:45.979-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Waiting 7583 => Counter 87
+2023-03-11T23:07:45.979-03:00  INFO 271418 --- [io-8080-exec-86] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-86 => Starts => Waiting 6997 => Counter 88
+2023-03-11T23:07:45.980-03:00  INFO 271418 --- [io-8080-exec-86] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-86 => Waiting 6997 => Counter 88
+2023-03-11T23:07:45.980-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Starts => Waiting 8580 => Counter 89
+2023-03-11T23:07:45.980-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Waiting 8580 => Counter 89
+2023-03-11T23:07:45.981-03:00  INFO 271418 --- [io-8080-exec-86] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-86 => Starts => Waiting 8150 => Counter 90
+2023-03-11T23:07:45.981-03:00  INFO 271418 --- [io-8080-exec-86] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-86 => Waiting 8150 => Counter 90
+2023-03-11T23:07:45.981-03:00  INFO 271418 --- [io-8080-exec-19] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-19 => Starts => Waiting 9368 => Counter 91
+2023-03-11T23:07:45.981-03:00  INFO 271418 --- [io-8080-exec-19] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-19 => Waiting 9368 => Counter 91
+2023-03-11T23:07:45.982-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Starts => Waiting 9201 => Counter 92
+2023-03-11T23:07:45.983-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Starts => Waiting 9023 => Counter 93
+2023-03-11T23:07:45.983-03:00  INFO 271418 --- [io-8080-exec-61] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-61 => Starts => Waiting 9833 => Counter 94
+2023-03-11T23:07:45.983-03:00  INFO 271418 --- [io-8080-exec-61] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-61 => Waiting 9833 => Counter 95
+2023-03-11T23:07:45.983-03:00  INFO 271418 --- [io-8080-exec-47] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-47 => Starts => Waiting 7691 => Counter 96
+2023-03-11T23:07:45.984-03:00  INFO 271418 --- [io-8080-exec-43] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-43 => Starts => Waiting 9963 => Counter 97
+2023-03-11T23:07:45.984-03:00  INFO 271418 --- [io-8080-exec-47] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-47 => Waiting 7691 => Counter 97
+2023-03-11T23:07:45.984-03:00  INFO 271418 --- [io-8080-exec-25] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-25 => Starts => Waiting 5920 => Counter 98
+2023-03-11T23:07:45.984-03:00  INFO 271418 --- [io-8080-exec-25] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-25 => Waiting 5920 => Counter 98
+2023-03-11T23:07:45.985-03:00  INFO 271418 --- [io-8080-exec-25] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-25 => Starts => Waiting 9252 => Counter 100
+2023-03-11T23:07:45.985-03:00  INFO 271418 --- [io-8080-exec-25] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-25 => Waiting 9252 => Counter 100
+2023-03-11T23:07:45.985-03:00  INFO 271418 --- [io-8080-exec-48] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-48 => Starts => Waiting 9117 => Counter 101
+2023-03-11T23:07:45.985-03:00  INFO 271418 --- [io-8080-exec-48] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-48 => Waiting 9117 => Counter 101
+2023-03-11T23:07:45.985-03:00  INFO 271418 --- [io-8080-exec-15] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-15 => Starts => Waiting 8756 => Counter 102
+2023-03-11T23:07:45.985-03:00  INFO 271418 --- [io-8080-exec-15] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-15 => Waiting 8756 => Counter 102
+2023-03-11T23:07:45.986-03:00  INFO 271418 --- [io-8080-exec-61] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-61 => Starts => Waiting 7786 => Counter 103
+2023-03-11T23:07:45.987-03:00  INFO 271418 --- [io-8080-exec-61] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-61 => Waiting 7786 => Counter 103
+2023-03-11T23:07:45.983-03:00  INFO 271418 --- [io-8080-exec-75] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-75 => Starts => Waiting 8806 => Counter 95
+2023-03-11T23:07:45.966-03:00  INFO 271418 --- [io-8080-exec-79] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-79 => Starts => Waiting 8932 => Counter 82
+2023-03-11T23:07:45.988-03:00  INFO 271418 --- [io-8080-exec-89] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-89 => Starts => Waiting 6718 => Counter 104
+2023-03-11T23:07:45.988-03:00  INFO 271418 --- [io-8080-exec-79] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-79 => Waiting 8932 => Counter 104
+2023-03-11T23:07:45.988-03:00  INFO 271418 --- [io-8080-exec-89] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-89 => Waiting 6718 => Counter 104
+2023-03-11T23:07:45.979-03:00  INFO 271418 --- [io-8080-exec-55] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-55 => Starts => Waiting 6363 => Counter 87
+2023-03-11T23:07:45.983-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Waiting 9023 => Counter 95
+2023-03-11T23:07:45.989-03:00  INFO 271418 --- [io-8080-exec-55] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-55 => Waiting 6363 => Counter 104
+2023-03-11T23:07:45.990-03:00  INFO 271418 --- [io-8080-exec-10] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-10 => Starts => Waiting 8676 => Counter 106
+2023-03-11T23:07:45.990-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Starts => Waiting 5535 => Counter 107
+2023-03-11T23:07:45.990-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Waiting 5535 => Counter 107
+2023-03-11T23:07:45.990-03:00  INFO 271418 --- [io-8080-exec-10] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-10 => Waiting 8676 => Counter 107
+2023-03-11T23:07:45.990-03:00  INFO 271418 --- [io-8080-exec-16] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-16 => Starts => Waiting 9775 => Counter 108
+2023-03-11T23:07:45.991-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Starts => Waiting 8894 => Counter 109
+2023-03-11T23:07:45.991-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Waiting 8894 => Counter 109
+2023-03-11T23:07:45.988-03:00  INFO 271418 --- [io-8080-exec-75] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-75 => Waiting 8806 => Counter 103
+2023-03-11T23:07:45.992-03:00  INFO 271418 --- [nio-8080-exec-1] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-1 => Starts => Waiting 6663 => Counter 110
+2023-03-11T23:07:45.992-03:00  INFO 271418 --- [nio-8080-exec-1] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-1 => Waiting 6663 => Counter 110
+2023-03-11T23:07:45.993-03:00  INFO 271418 --- [io-8080-exec-21] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-21 => Starts => Waiting 8259 => Counter 111
+2023-03-11T23:07:45.993-03:00  INFO 271418 --- [io-8080-exec-21] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-21 => Waiting 8259 => Counter 111
+2023-03-11T23:07:45.983-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Waiting 9201 => Counter 95
+2023-03-11T23:07:45.985-03:00  INFO 271418 --- [io-8080-exec-47] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-47 => Starts => Waiting 7970 => Counter 100
+2023-03-11T23:07:45.995-03:00  INFO 271418 --- [io-8080-exec-47] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-47 => Waiting 7970 => Counter 111
+2023-03-11T23:07:45.986-03:00  INFO 271418 --- [io-8080-exec-86] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-86 => Starts => Waiting 6723 => Counter 103
+2023-03-11T23:07:45.995-03:00  INFO 271418 --- [io-8080-exec-86] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-86 => Waiting 6723 => Counter 112
+2023-03-11T23:07:45.990-03:00  INFO 271418 --- [io-8080-exec-81] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-81 => Starts => Waiting 7693 => Counter 106
+2023-03-11T23:07:45.991-03:00  INFO 271418 --- [io-8080-exec-43] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-43 => Waiting 9963 => Counter 108
+2023-03-11T23:07:45.996-03:00  INFO 271418 --- [io-8080-exec-81] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-81 => Waiting 7693 => Counter 112
+2023-03-11T23:07:45.995-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Starts => Waiting 9342 => Counter 112
+2023-03-11T23:07:45.997-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Waiting 9342 => Counter 112
+2023-03-11T23:07:45.997-03:00  INFO 271418 --- [nio-8080-exec-3] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-3 => Starts => Waiting 7857 => Counter 113
+2023-03-11T23:07:45.997-03:00  INFO 271418 --- [io-8080-exec-16] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-16 => Waiting 9775 => Counter 114
+2023-03-11T23:07:45.997-03:00  INFO 271418 --- [nio-8080-exec-3] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-3 => Waiting 7857 => Counter 114
+2023-03-11T23:07:45.997-03:00  INFO 271418 --- [io-8080-exec-20] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-20 => Starts => Waiting 7557 => Counter 115
+2023-03-11T23:07:45.998-03:00  INFO 271418 --- [io-8080-exec-20] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-20 => Waiting 7557 => Counter 115
+2023-03-11T23:07:45.998-03:00  INFO 271418 --- [io-8080-exec-33] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-33 => Starts => Waiting 9742 => Counter 116
+2023-03-11T23:07:45.998-03:00  INFO 271418 --- [io-8080-exec-33] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-33 => Waiting 9742 => Counter 116
+2023-03-11T23:07:45.998-03:00  INFO 271418 --- [nio-8080-exec-2] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-2 => Starts => Waiting 9064 => Counter 117
+2023-03-11T23:07:45.998-03:00  INFO 271418 --- [nio-8080-exec-2] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-2 => Waiting 9064 => Counter 117
+2023-03-11T23:07:45.997-03:00  INFO 271418 --- [io-8080-exec-27] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-27 => Starts => Waiting 9740 => Counter 114
+2023-03-11T23:07:45.998-03:00  INFO 271418 --- [io-8080-exec-27] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-27 => Waiting 9740 => Counter 117
+2023-03-11T23:07:46.000-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Starts => Waiting 5127 => Counter 118
+2023-03-11T23:07:46.000-03:00  INFO 271418 --- [io-8080-exec-78] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-78 => Starts => Waiting 5857 => Counter 119
+2023-03-11T23:07:46.000-03:00  INFO 271418 --- [io-8080-exec-55] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-55 => Starts => Waiting 7349 => Counter 120
+2023-03-11T23:07:46.000-03:00  INFO 271418 --- [io-8080-exec-55] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-55 => Waiting 7349 => Counter 120
+2023-03-11T23:07:46.000-03:00  INFO 271418 --- [io-8080-exec-78] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-78 => Waiting 5857 => Counter 119
+2023-03-11T23:07:46.004-03:00  INFO 271418 --- [io-8080-exec-10] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-10 => Starts => Waiting 7973 => Counter 121
+2023-03-11T23:07:46.004-03:00  INFO 271418 --- [io-8080-exec-10] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-10 => Waiting 7973 => Counter 121
+2023-03-11T23:07:46.004-03:00  INFO 271418 --- [io-8080-exec-44] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-44 => Starts => Waiting 6465 => Counter 122
+2023-03-11T23:07:46.005-03:00  INFO 271418 --- [io-8080-exec-44] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-44 => Waiting 6465 => Counter 122
+2023-03-11T23:07:46.006-03:00  INFO 271418 --- [io-8080-exec-90] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-90 => Starts => Waiting 5494 => Counter 123
+2023-03-11T23:07:46.006-03:00  INFO 271418 --- [io-8080-exec-90] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-90 => Waiting 5494 => Counter 123
+2023-03-11T23:07:46.010-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Waiting 5127 => Counter 123
+2023-03-11T23:07:46.011-03:00  INFO 271418 --- [io-8080-exec-19] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-19 => Starts => Waiting 5798 => Counter 124
+2023-03-11T23:07:46.011-03:00  INFO 271418 --- [io-8080-exec-19] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-19 => Waiting 5798 => Counter 124
+2023-03-11T23:07:46.011-03:00  INFO 271418 --- [io-8080-exec-24] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-24 => Starts => Waiting 9599 => Counter 125
+2023-03-11T23:07:46.011-03:00  INFO 271418 --- [io-8080-exec-24] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-24 => Waiting 9599 => Counter 125
+2023-03-11T23:07:46.012-03:00  INFO 271418 --- [io-8080-exec-35] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-35 => Starts => Waiting 7904 => Counter 126
+2023-03-11T23:07:46.012-03:00  INFO 271418 --- [io-8080-exec-35] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-35 => Waiting 7904 => Counter 126
+2023-03-11T23:07:46.013-03:00  INFO 271418 --- [io-8080-exec-35] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-35 => Starts => Waiting 7943 => Counter 127
+2023-03-11T23:07:46.014-03:00  INFO 271418 --- [io-8080-exec-35] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-35 => Waiting 7943 => Counter 127
+2023-03-11T23:07:46.042-03:00  INFO 271418 --- [io-8080-exec-84] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-84 => Starts => Waiting 5407 => Counter 128
+2023-03-11T23:07:46.043-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Starts => Waiting 7266 => Counter 129
+2023-03-11T23:07:46.043-03:00  INFO 271418 --- [io-8080-exec-84] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-84 => Waiting 5407 => Counter 129
+2023-03-11T23:07:46.043-03:00  INFO 271418 --- [io-8080-exec-79] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-79 => Starts => Waiting 5025 => Counter 130
+2023-03-11T23:07:46.043-03:00  INFO 271418 --- [io-8080-exec-79] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-79 => Waiting 5025 => Counter 130
+2023-03-11T23:07:46.043-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Waiting 7266 => Counter 130
+2023-03-11T23:07:46.044-03:00  INFO 271418 --- [io-8080-exec-50] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-50 => Starts => Waiting 7473 => Counter 131
+2023-03-11T23:07:46.044-03:00  INFO 271418 --- [io-8080-exec-50] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-50 => Waiting 7473 => Counter 131
+2023-03-11T23:07:46.045-03:00  INFO 271418 --- [io-8080-exec-31] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-31 => Starts => Waiting 8150 => Counter 132
+2023-03-11T23:07:46.046-03:00  INFO 271418 --- [io-8080-exec-31] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-31 => Waiting 8150 => Counter 132
+2023-03-11T23:07:46.046-03:00  INFO 271418 --- [io-8080-exec-73] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-73 => Starts => Waiting 5425 => Counter 133
+2023-03-11T23:07:46.046-03:00  INFO 271418 --- [io-8080-exec-73] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-73 => Waiting 5425 => Counter 133
+2023-03-11T23:07:46.046-03:00  INFO 271418 --- [io-8080-exec-82] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-82 => Starts => Waiting 6836 => Counter 134
+2023-03-11T23:07:46.046-03:00  INFO 271418 --- [io-8080-exec-82] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-82 => Waiting 6836 => Counter 134
+2023-03-11T23:07:46.048-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Starts => Waiting 8054 => Counter 135
+2023-03-11T23:07:46.049-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Waiting 8054 => Counter 135
+2023-03-11T23:07:46.049-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Starts => Waiting 5180 => Counter 136
+2023-03-11T23:07:46.049-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Waiting 5180 => Counter 136
+2023-03-11T23:07:46.050-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Starts => Waiting 6818 => Counter 137
+2023-03-11T23:07:46.050-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Waiting 6818 => Counter 137
+2023-03-11T23:07:46.050-03:00  INFO 271418 --- [io-8080-exec-84] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-84 => Starts => Waiting 6382 => Counter 138
+2023-03-11T23:07:46.051-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Starts => Waiting 6844 => Counter 139
+2023-03-11T23:07:46.051-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Starts => Waiting 9155 => Counter 141
+2023-03-11T23:07:46.051-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Waiting 9155 => Counter 141
+2023-03-11T23:07:46.051-03:00  INFO 271418 --- [io-8080-exec-50] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-50 => Starts => Waiting 7772 => Counter 142
+2023-03-11T23:07:46.051-03:00  INFO 271418 --- [io-8080-exec-50] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-50 => Waiting 7772 => Counter 142
+2023-03-11T23:07:46.052-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Starts => Waiting 9134 => Counter 143
+2023-03-11T23:07:46.052-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Waiting 9134 => Counter 143
+2023-03-11T23:07:46.052-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Starts => Waiting 7868 => Counter 144
+2023-03-11T23:07:46.052-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Waiting 7868 => Counter 144
+2023-03-11T23:07:46.053-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Starts => Waiting 7747 => Counter 145
+2023-03-11T23:07:46.053-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Waiting 7747 => Counter 145
+2023-03-11T23:07:46.053-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Starts => Waiting 9203 => Counter 146
+2023-03-11T23:07:46.053-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Waiting 9203 => Counter 146
+2023-03-11T23:07:46.054-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Starts => Waiting 7860 => Counter 148
+2023-03-11T23:07:46.054-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Waiting 7860 => Counter 148
+2023-03-11T23:07:46.055-03:00  INFO 271418 --- [io-8080-exec-82] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-82 => Starts => Waiting 9488 => Counter 149
+2023-03-11T23:07:46.055-03:00  INFO 271418 --- [io-8080-exec-82] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-82 => Waiting 9488 => Counter 149
+2023-03-11T23:07:46.056-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Starts => Waiting 7388 => Counter 150
+2023-03-11T23:07:46.056-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Waiting 7388 => Counter 150
+2023-03-11T23:07:46.056-03:00  INFO 271418 --- [io-8080-exec-82] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-82 => Starts => Waiting 6257 => Counter 151
+2023-03-11T23:07:46.057-03:00  INFO 271418 --- [io-8080-exec-82] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-82 => Waiting 6257 => Counter 151
+2023-03-11T23:07:46.057-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Starts => Waiting 9937 => Counter 152
+2023-03-11T23:07:46.057-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Waiting 9937 => Counter 152
+2023-03-11T23:07:46.051-03:00  INFO 271418 --- [io-8080-exec-33] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-33 => Starts => Waiting 6214 => Counter 141
+2023-03-11T23:07:46.051-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Waiting 6844 => Counter 141
+2023-03-11T23:07:46.057-03:00  INFO 271418 --- [io-8080-exec-33] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-33 => Waiting 6214 => Counter 152
+2023-03-11T23:07:46.058-03:00  INFO 271418 --- [io-8080-exec-84] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-84 => Waiting 6382 => Counter 152
+2023-03-11T23:07:46.058-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Starts => Waiting 7621 => Counter 153
+2023-03-11T23:07:46.058-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Waiting 7621 => Counter 153
+2023-03-11T23:07:46.059-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Starts => Waiting 7020 => Counter 154
+2023-03-11T23:07:46.059-03:00  INFO 271418 --- [io-8080-exec-33] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-33 => Starts => Waiting 5481 => Counter 155
+2023-03-11T23:07:46.059-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Waiting 7020 => Counter 155
+2023-03-11T23:07:46.059-03:00  INFO 271418 --- [io-8080-exec-33] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-33 => Waiting 5481 => Counter 155
+2023-03-11T23:07:46.059-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Starts => Waiting 8401 => Counter 156
+2023-03-11T23:07:46.060-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Waiting 8401 => Counter 156
+2023-03-11T23:07:46.060-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Starts => Waiting 5957 => Counter 157
+2023-03-11T23:07:46.060-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Waiting 5957 => Counter 157
+2023-03-11T23:07:46.060-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Starts => Waiting 5066 => Counter 158
+2023-03-11T23:07:46.060-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Waiting 5066 => Counter 158
+2023-03-11T23:07:46.061-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Starts => Waiting 5637 => Counter 159
+2023-03-11T23:07:46.061-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Waiting 5637 => Counter 159
+2023-03-11T23:07:46.061-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Starts => Waiting 7368 => Counter 161
+2023-03-11T23:07:46.061-03:00  INFO 271418 --- [io-8080-exec-84] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-84 => Starts => Waiting 6841 => Counter 161
+2023-03-11T23:07:46.061-03:00  INFO 271418 --- [io-8080-exec-84] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-84 => Waiting 6841 => Counter 161
+2023-03-11T23:07:46.061-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Waiting 7368 => Counter 161
+2023-03-11T23:07:46.054-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Starts => Waiting 7497 => Counter 148
+2023-03-11T23:07:46.062-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Waiting 7497 => Counter 161
+2023-03-11T23:07:46.063-03:00  INFO 271418 --- [io-8080-exec-50] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-50 => Starts => Waiting 9434 => Counter 162
+2023-03-11T23:07:46.063-03:00  INFO 271418 --- [io-8080-exec-50] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-50 => Waiting 9434 => Counter 162
+2023-03-11T23:07:46.063-03:00  INFO 271418 --- [io-8080-exec-84] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-84 => Starts => Waiting 5557 => Counter 164
+2023-03-11T23:07:46.063-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Starts => Waiting 5307 => Counter 164
+2023-03-11T23:07:46.063-03:00  INFO 271418 --- [io-8080-exec-84] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-84 => Waiting 5557 => Counter 164
+2023-03-11T23:07:46.063-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Waiting 5307 => Counter 164
+2023-03-11T23:07:46.064-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Starts => Waiting 8714 => Counter 165
+2023-03-11T23:07:46.064-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Waiting 8714 => Counter 165
+2023-03-11T23:07:46.073-03:00  INFO 271418 --- [io-8080-exec-23] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-23 => Starts => Waiting 9335 => Counter 166
+2023-03-11T23:07:46.073-03:00  INFO 271418 --- [io-8080-exec-64] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-64 => Starts => Waiting 8808 => Counter 167
+2023-03-11T23:07:46.074-03:00  INFO 271418 --- [io-8080-exec-64] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-64 => Waiting 8808 => Counter 167
+2023-03-11T23:07:46.073-03:00  INFO 271418 --- [io-8080-exec-23] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-23 => Waiting 9335 => Counter 167
+2023-03-11T23:07:46.077-03:00  INFO 271418 --- [io-8080-exec-78] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-78 => Starts => Waiting 9615 => Counter 168
+2023-03-11T23:07:46.077-03:00  INFO 271418 --- [io-8080-exec-78] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-78 => Waiting 9615 => Counter 168
+2023-03-11T23:07:46.078-03:00  INFO 271418 --- [io-8080-exec-78] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-78 => Starts => Waiting 5298 => Counter 169
+2023-03-11T23:07:46.078-03:00  INFO 271418 --- [io-8080-exec-78] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-78 => Waiting 5298 => Counter 169
+2023-03-11T23:07:46.084-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Starts => Waiting 7445 => Counter 170
+2023-03-11T23:07:46.084-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Waiting 7445 => Counter 170
+2023-03-11T23:07:46.087-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Starts => Waiting 7427 => Counter 171
+2023-03-11T23:07:46.087-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Waiting 7427 => Counter 171
+2023-03-11T23:07:46.088-03:00  INFO 271418 --- [io-8080-exec-43] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-43 => Starts => Waiting 6134 => Counter 172
+2023-03-11T23:07:46.089-03:00  INFO 271418 --- [io-8080-exec-11] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-11 => Starts => Waiting 8599 => Counter 173
+2023-03-11T23:07:46.089-03:00  INFO 271418 --- [io-8080-exec-13] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-13 => Starts => Waiting 7635 => Counter 174
+2023-03-11T23:07:46.089-03:00  INFO 271418 --- [io-8080-exec-13] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-13 => Waiting 7635 => Counter 174
+2023-03-11T23:07:46.091-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Starts => Waiting 6040 => Counter 176
+2023-03-11T23:07:46.091-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Waiting 6040 => Counter 176
+2023-03-11T23:07:46.092-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Starts => Waiting 7069 => Counter 177
+2023-03-11T23:07:46.092-03:00  INFO 271418 --- [io-8080-exec-48] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-48 => Starts => Waiting 8359 => Counter 178
+2023-03-11T23:07:46.092-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Waiting 7069 => Counter 177
+2023-03-11T23:07:46.092-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Starts => Waiting 8745 => Counter 179
+2023-03-11T23:07:46.093-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Waiting 8745 => Counter 179
+2023-03-11T23:07:46.093-03:00  INFO 271418 --- [io-8080-exec-74] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-74 => Starts => Waiting 9354 => Counter 180
+2023-03-11T23:07:46.093-03:00  INFO 271418 --- [io-8080-exec-74] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-74 => Waiting 9354 => Counter 180
+2023-03-11T23:07:46.092-03:00  INFO 271418 --- [io-8080-exec-48] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-48 => Waiting 8359 => Counter 179
+2023-03-11T23:07:46.094-03:00  INFO 271418 --- [io-8080-exec-82] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-82 => Starts => Waiting 5383 => Counter 181
+2023-03-11T23:07:46.094-03:00  INFO 271418 --- [io-8080-exec-81] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-81 => Starts => Waiting 8388 => Counter 176
+2023-03-11T23:07:46.094-03:00  INFO 271418 --- [io-8080-exec-81] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-81 => Waiting 8388 => Counter 181
+2023-03-11T23:07:46.095-03:00  INFO 271418 --- [io-8080-exec-82] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-82 => Waiting 5383 => Counter 181
+2023-03-11T23:07:46.096-03:00  INFO 271418 --- [io-8080-exec-22] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-22 => Starts => Waiting 7692 => Counter 182
+2023-03-11T23:07:46.096-03:00  INFO 271418 --- [io-8080-exec-22] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-22 => Waiting 7692 => Counter 182
+2023-03-11T23:07:46.096-03:00  INFO 271418 --- [io-8080-exec-43] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-43 => Waiting 6134 => Counter 182
+2023-03-11T23:07:46.097-03:00  INFO 271418 --- [io-8080-exec-11] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-11 => Waiting 8599 => Counter 182
+2023-03-11T23:07:46.097-03:00  INFO 271418 --- [io-8080-exec-84] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-84 => Starts => Waiting 7882 => Counter 183
+2023-03-11T23:07:46.098-03:00  INFO 271418 --- [io-8080-exec-84] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-84 => Waiting 7882 => Counter 183
+2023-03-11T23:07:46.098-03:00  INFO 271418 --- [io-8080-exec-65] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-65 => Starts => Waiting 7852 => Counter 184
+2023-03-11T23:07:46.098-03:00  INFO 271418 --- [io-8080-exec-65] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-65 => Waiting 7852 => Counter 184
+2023-03-11T23:07:46.099-03:00  INFO 271418 --- [io-8080-exec-29] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-29 => Starts => Waiting 9231 => Counter 185
+2023-03-11T23:07:46.099-03:00  INFO 271418 --- [io-8080-exec-29] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-29 => Waiting 9231 => Counter 185
+2023-03-11T23:07:46.099-03:00  INFO 271418 --- [nio-8080-exec-9] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-9 => Starts => Waiting 7706 => Counter 185
+2023-03-11T23:07:46.099-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Starts => Waiting 7872 => Counter 186
+2023-03-11T23:07:46.099-03:00  INFO 271418 --- [nio-8080-exec-9] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-9 => Waiting 7706 => Counter 186
+2023-03-11T23:07:46.100-03:00  INFO 271418 --- [io-8080-exec-29] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-29 => Starts => Waiting 5789 => Counter 187
+2023-03-11T23:07:46.100-03:00  INFO 271418 --- [io-8080-exec-29] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-29 => Waiting 5789 => Counter 187
+2023-03-11T23:07:46.100-03:00  INFO 271418 --- [io-8080-exec-38] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-38 => Waiting 7872 => Counter 187
+2023-03-11T23:07:46.103-03:00  INFO 271418 --- [io-8080-exec-11] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-11 => Starts => Waiting 8182 => Counter 188
+2023-03-11T23:07:46.103-03:00  INFO 271418 --- [io-8080-exec-11] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-11 => Waiting 8182 => Counter 188
+2023-03-11T23:07:46.108-03:00  INFO 271418 --- [io-8080-exec-75] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-75 => Starts => Waiting 8455 => Counter 189
+2023-03-11T23:07:46.108-03:00  INFO 271418 --- [io-8080-exec-75] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-75 => Waiting 8455 => Counter 189
+2023-03-11T23:07:46.110-03:00  INFO 271418 --- [io-8080-exec-54] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-54 => Starts => Waiting 7752 => Counter 190
+2023-03-11T23:07:46.110-03:00  INFO 271418 --- [io-8080-exec-54] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-54 => Waiting 7752 => Counter 190
+2023-03-11T23:07:46.113-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Starts => Waiting 8529 => Counter 191
+2023-03-11T23:07:46.113-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Waiting 8529 => Counter 191
+2023-03-11T23:07:46.113-03:00  INFO 271418 --- [io-8080-exec-19] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-19 => Starts => Waiting 6834 => Counter 191
+2023-03-11T23:07:46.113-03:00  INFO 271418 --- [io-8080-exec-19] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-19 => Waiting 6834 => Counter 191
+2023-03-11T23:07:46.114-03:00  INFO 271418 --- [io-8080-exec-47] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-47 => Starts => Waiting 9968 => Counter 192
+2023-03-11T23:07:46.114-03:00  INFO 271418 --- [io-8080-exec-47] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-47 => Waiting 9968 => Counter 192
+2023-03-11T23:07:46.114-03:00  INFO 271418 --- [io-8080-exec-24] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-24 => Starts => Waiting 8339 => Counter 192
+2023-03-11T23:07:46.115-03:00  INFO 271418 --- [io-8080-exec-24] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-24 => Waiting 8339 => Counter 192
+2023-03-11T23:07:46.120-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Starts => Waiting 8586 => Counter 193
+2023-03-11T23:07:46.120-03:00  INFO 271418 --- [io-8080-exec-58] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-58 => Waiting 8586 => Counter 193
+2023-03-11T23:07:46.122-03:00  INFO 271418 --- [io-8080-exec-44] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-44 => Starts => Waiting 5211 => Counter 194
+2023-03-11T23:07:46.122-03:00  INFO 271418 --- [io-8080-exec-44] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-44 => Waiting 5211 => Counter 194
+2023-03-11T23:07:46.124-03:00  INFO 271418 --- [io-8080-exec-44] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-44 => Starts => Waiting 7053 => Counter 195
+2023-03-11T23:07:46.124-03:00  INFO 271418 --- [io-8080-exec-44] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-44 => Waiting 7053 => Counter 195
+2023-03-11T23:07:46.125-03:00  INFO 271418 --- [io-8080-exec-46] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-46 => Starts => Waiting 8773 => Counter 196
+2023-03-11T23:07:46.126-03:00  INFO 271418 --- [io-8080-exec-46] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-46 => Waiting 8773 => Counter 196
+2023-03-11T23:07:46.128-03:00  INFO 271418 --- [io-8080-exec-21] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-21 => Starts => Waiting 5724 => Counter 197
+2023-03-11T23:07:46.128-03:00  INFO 271418 --- [io-8080-exec-21] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-21 => Waiting 5724 => Counter 197
+2023-03-11T23:07:46.129-03:00  INFO 271418 --- [io-8080-exec-45] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-45 => Starts => Waiting 5452 => Counter 199
+2023-03-11T23:07:46.129-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Starts => Waiting 6888 => Counter 199
+2023-03-11T23:07:46.130-03:00  INFO 271418 --- [io-8080-exec-45] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-45 => Waiting 5452 => Counter 199
+2023-03-11T23:07:46.130-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Waiting 6888 => Counter 199
+2023-03-11T23:07:46.130-03:00  INFO 271418 --- [io-8080-exec-53] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-53 => Starts => Waiting 9239 => Counter 200
+2023-03-11T23:07:46.130-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Starts => Waiting 8770 => Counter 200
+2023-03-11T23:07:46.131-03:00  INFO 271418 --- [io-8080-exec-53] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-53 => Waiting 9239 => Counter 200
+2023-03-11T23:07:46.131-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Waiting 8770 => Counter 200
+2023-03-11T23:07:46.131-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Starts => Waiting 7933 => Counter 201
+2023-03-11T23:07:46.131-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Waiting 7933 => Counter 201
+2023-03-11T23:07:46.131-03:00  INFO 271418 --- [io-8080-exec-66] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-66 => Starts => Waiting 8703 => Counter 202
+2023-03-11T23:07:46.131-03:00  INFO 271418 --- [io-8080-exec-66] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-66 => Waiting 8703 => Counter 202
+2023-03-11T23:07:46.132-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Starts => Waiting 6225 => Counter 203
+2023-03-11T23:07:46.132-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Waiting 6225 => Counter 204
+2023-03-11T23:07:46.132-03:00  INFO 271418 --- [io-8080-exec-66] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-66 => Starts => Waiting 8858 => Counter 205
+2023-03-11T23:07:46.132-03:00  INFO 271418 --- [io-8080-exec-66] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-66 => Waiting 8858 => Counter 205
+2023-03-11T23:07:46.132-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Starts => Waiting 8039 => Counter 204
+2023-03-11T23:07:46.133-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Waiting 8039 => Counter 205
+2023-03-11T23:07:46.134-03:00  INFO 271418 --- [io-8080-exec-66] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-66 => Starts => Waiting 9069 => Counter 207
+2023-03-11T23:07:46.134-03:00  INFO 271418 --- [io-8080-exec-66] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-66 => Waiting 9069 => Counter 207
+2023-03-11T23:07:46.134-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Starts => Waiting 9815 => Counter 208
+2023-03-11T23:07:46.134-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Waiting 9815 => Counter 208
+2023-03-11T23:07:46.135-03:00  INFO 271418 --- [io-8080-exec-14] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-14 => Starts => Waiting 8360 => Counter 209
+2023-03-11T23:07:46.135-03:00  INFO 271418 --- [io-8080-exec-14] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-14 => Waiting 8360 => Counter 209
+2023-03-11T23:07:46.135-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Starts => Waiting 7210 => Counter 210
+2023-03-11T23:07:46.135-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Waiting 7210 => Counter 210
+2023-03-11T23:07:46.136-03:00  INFO 271418 --- [io-8080-exec-45] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-45 => Starts => Waiting 5864 => Counter 211
+2023-03-11T23:07:46.136-03:00  INFO 271418 --- [io-8080-exec-45] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-45 => Waiting 5864 => Counter 211
+2023-03-11T23:07:46.136-03:00  INFO 271418 --- [io-8080-exec-40] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-40 => Starts => Waiting 8500 => Counter 212
+2023-03-11T23:07:46.136-03:00  INFO 271418 --- [io-8080-exec-40] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-40 => Waiting 8500 => Counter 212
+2023-03-11T23:07:46.137-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Starts => Waiting 7679 => Counter 213
+2023-03-11T23:07:46.137-03:00  INFO 271418 --- [io-8080-exec-41] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-41 => Waiting 7679 => Counter 213
+2023-03-11T23:07:46.137-03:00  INFO 271418 --- [io-8080-exec-92] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-92 => Starts => Waiting 6468 => Counter 214
+2023-03-11T23:07:46.137-03:00  INFO 271418 --- [io-8080-exec-92] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-92 => Waiting 6468 => Counter 214
+2023-03-11T23:07:46.134-03:00  INFO 271418 --- [io-8080-exec-17] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-17 => Starts => Waiting 8817 => Counter 207
+2023-03-11T23:07:46.138-03:00  INFO 271418 --- [io-8080-exec-17] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-17 => Waiting 8817 => Counter 214
+2023-03-11T23:07:46.138-03:00  INFO 271418 --- [io-8080-exec-53] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-53 => Starts => Waiting 7798 => Counter 215
+2023-03-11T23:07:46.139-03:00  INFO 271418 --- [io-8080-exec-53] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-53 => Waiting 7798 => Counter 215
+2023-03-11T23:07:46.139-03:00  INFO 271418 --- [io-8080-exec-77] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-77 => Starts => Waiting 5908 => Counter 216
+2023-03-11T23:07:46.140-03:00  INFO 271418 --- [io-8080-exec-77] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-77 => Waiting 5908 => Counter 216
+2023-03-11T23:07:46.141-03:00  INFO 271418 --- [nio-8080-exec-1] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-1 => Starts => Waiting 6063 => Counter 217
+2023-03-11T23:07:46.141-03:00  INFO 271418 --- [nio-8080-exec-1] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-1 => Waiting 6063 => Counter 217
+2023-03-11T23:07:46.144-03:00  INFO 271418 --- [io-8080-exec-68] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-68 => Starts => Waiting 8244 => Counter 218
+2023-03-11T23:07:46.144-03:00  INFO 271418 --- [io-8080-exec-68] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-68 => Waiting 8244 => Counter 218
+2023-03-11T23:07:46.161-03:00  INFO 271418 --- [io-8080-exec-43] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-43 => Starts => Waiting 5565 => Counter 219
+2023-03-11T23:07:46.162-03:00  INFO 271418 --- [io-8080-exec-37] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-37 => Starts => Waiting 5551 => Counter 220
+2023-03-11T23:07:46.163-03:00  INFO 271418 --- [io-8080-exec-37] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-37 => Waiting 5551 => Counter 220
+2023-03-11T23:07:46.163-03:00  INFO 271418 --- [io-8080-exec-82] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-82 => Starts => Waiting 7761 => Counter 221
+2023-03-11T23:07:46.163-03:00  INFO 271418 --- [io-8080-exec-82] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-82 => Waiting 7761 => Counter 221
+2023-03-11T23:07:46.162-03:00  INFO 271418 --- [io-8080-exec-43] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-43 => Waiting 5565 => Counter 219
+2023-03-11T23:07:46.167-03:00  INFO 271418 --- [io-8080-exec-74] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-74 => Starts => Waiting 5655 => Counter 222
+2023-03-11T23:07:46.167-03:00  INFO 271418 --- [io-8080-exec-74] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-74 => Waiting 5655 => Counter 222
+2023-03-11T23:07:46.168-03:00  INFO 271418 --- [io-8080-exec-22] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-22 => Starts => Waiting 7168 => Counter 223
+2023-03-11T23:07:46.169-03:00  INFO 271418 --- [io-8080-exec-22] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-22 => Waiting 7168 => Counter 223
+2023-03-11T23:07:46.181-03:00  INFO 271418 --- [io-8080-exec-13] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-13 => Starts => Waiting 8376 => Counter 225
+2023-03-11T23:07:46.181-03:00  INFO 271418 --- [io-8080-exec-13] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-13 => Waiting 8376 => Counter 225
+2023-03-11T23:07:46.182-03:00  INFO 271418 --- [io-8080-exec-12] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-12 => Starts => Waiting 7673 => Counter 227
+2023-03-11T23:07:46.182-03:00  INFO 271418 --- [io-8080-exec-13] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-13 => Starts => Waiting 8543 => Counter 228
+2023-03-11T23:07:46.182-03:00  INFO 271418 --- [io-8080-exec-13] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-13 => Waiting 8543 => Counter 228
+2023-03-11T23:07:46.183-03:00  INFO 271418 --- [io-8080-exec-16] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-16 => Starts => Waiting 8626 => Counter 229
+2023-03-11T23:07:46.183-03:00  INFO 271418 --- [io-8080-exec-26] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-26 => Starts => Waiting 5856 => Counter 230
+2023-03-11T23:07:46.183-03:00  INFO 271418 --- [io-8080-exec-61] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-61 => Starts => Waiting 8716 => Counter 231
+2023-03-11T23:07:46.183-03:00  INFO 271418 --- [io-8080-exec-26] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-26 => Waiting 5856 => Counter 231
+2023-03-11T23:07:46.183-03:00  INFO 271418 --- [io-8080-exec-12] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-12 => Waiting 7673 => Counter 232
+2023-03-11T23:07:46.184-03:00  INFO 271418 --- [io-8080-exec-16] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-16 => Waiting 8626 => Counter 231
+2023-03-11T23:07:46.183-03:00  INFO 271418 --- [io-8080-exec-61] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-61 => Waiting 8716 => Counter 231
+2023-03-11T23:07:46.185-03:00  INFO 271418 --- [io-8080-exec-51] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-51 => Starts => Waiting 6293 => Counter 233
+2023-03-11T23:07:46.183-03:00  INFO 271418 --- [nio-8080-exec-3] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-3 => Starts => Waiting 8173 => Counter 232
+2023-03-11T23:07:46.186-03:00  INFO 271418 --- [nio-8080-exec-3] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-3 => Waiting 8173 => Counter 233
+2023-03-11T23:07:46.183-03:00  INFO 271418 --- [io-8080-exec-20] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-20 => Starts => Waiting 5182 => Counter 224
+2023-03-11T23:07:46.188-03:00  INFO 271418 --- [io-8080-exec-20] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-20 => Waiting 5182 => Counter 233
+2023-03-11T23:07:46.188-03:00  INFO 271418 --- [io-8080-exec-33] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-33 => Starts => Waiting 7981 => Counter 234
+2023-03-11T23:07:46.188-03:00  INFO 271418 --- [io-8080-exec-33] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-33 => Waiting 7981 => Counter 234
+2023-03-11T23:07:46.188-03:00  INFO 271418 --- [io-8080-exec-29] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-29 => Starts => Waiting 5347 => Counter 235
+2023-03-11T23:07:46.188-03:00  INFO 271418 --- [io-8080-exec-29] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-29 => Waiting 5347 => Counter 235
+2023-03-11T23:07:46.181-03:00  INFO 271418 --- [io-8080-exec-52] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-52 => Starts => Waiting 5468 => Counter 226
+2023-03-11T23:07:46.189-03:00  INFO 271418 --- [io-8080-exec-52] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-52 => Waiting 5468 => Counter 235
+2023-03-11T23:07:46.186-03:00  INFO 271418 --- [io-8080-exec-51] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-51 => Waiting 6293 => Counter 233
+2023-03-11T23:07:46.192-03:00  INFO 271418 --- [io-8080-exec-55] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-55 => Starts => Waiting 5468 => Counter 236
+2023-03-11T23:07:46.193-03:00  INFO 271418 --- [io-8080-exec-55] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-55 => Waiting 5468 => Counter 236
+2023-03-11T23:07:46.196-03:00  INFO 271418 --- [io-8080-exec-11] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-11 => Starts => Waiting 6160 => Counter 237
+2023-03-11T23:07:46.196-03:00  INFO 271418 --- [io-8080-exec-11] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-11 => Waiting 6160 => Counter 237
+2023-03-11T23:07:46.198-03:00  INFO 271418 --- [nio-8080-exec-2] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-2 => Starts => Waiting 6329 => Counter 238
+2023-03-11T23:07:46.198-03:00  INFO 271418 --- [nio-8080-exec-2] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-2 => Waiting 6329 => Counter 238
+2023-03-11T23:07:46.199-03:00  INFO 271418 --- [nio-8080-exec-2] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-2 => Starts => Waiting 7651 => Counter 239
+2023-03-11T23:07:46.199-03:00  INFO 271418 --- [nio-8080-exec-2] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-2 => Waiting 7651 => Counter 240
+2023-03-11T23:07:46.199-03:00  INFO 271418 --- [io-8080-exec-81] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-81 => Starts => Waiting 9702 => Counter 239
+2023-03-11T23:07:46.199-03:00  INFO 271418 --- [io-8080-exec-47] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-47 => Starts => Waiting 9095 => Counter 240
+2023-03-11T23:07:46.200-03:00  INFO 271418 --- [io-8080-exec-47] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-47 => Waiting 9095 => Counter 240
+2023-03-11T23:07:46.200-03:00  INFO 271418 --- [io-8080-exec-81] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-81 => Waiting 9702 => Counter 240
+2023-03-11T23:07:46.206-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Starts => Waiting 5267 => Counter 241
+2023-03-11T23:07:46.206-03:00  INFO 271418 --- [io-8080-exec-18] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-18 => Waiting 5267 => Counter 241
+2023-03-11T23:07:46.207-03:00  INFO 271418 --- [io-8080-exec-46] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-46 => Starts => Waiting 9294 => Counter 242
+2023-03-11T23:07:46.207-03:00  INFO 271418 --- [io-8080-exec-46] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-46 => Waiting 9294 => Counter 242
+2023-03-11T23:07:46.216-03:00  INFO 271418 --- [io-8080-exec-40] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-40 => Starts => Waiting 9954 => Counter 243
+2023-03-11T23:07:46.217-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Starts => Waiting 5002 => Counter 244
+2023-03-11T23:07:46.217-03:00  INFO 271418 --- [io-8080-exec-40] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-40 => Waiting 9954 => Counter 244
+2023-03-11T23:07:46.217-03:00  INFO 271418 --- [io-8080-exec-57] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-57 => Waiting 5002 => Counter 244
+2023-03-11T23:07:46.217-03:00  INFO 271418 --- [io-8080-exec-87] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-87 => Starts => Waiting 7752 => Counter 245
+2023-03-11T23:07:46.217-03:00  INFO 271418 --- [io-8080-exec-87] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-87 => Waiting 7752 => Counter 245
+2023-03-11T23:07:46.217-03:00  INFO 271418 --- [io-8080-exec-92] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-92 => Starts => Waiting 8743 => Counter 246
+2023-03-11T23:07:46.218-03:00  INFO 271418 --- [io-8080-exec-92] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-92 => Waiting 8743 => Counter 246
+2023-03-11T23:07:46.218-03:00  INFO 271418 --- [io-8080-exec-76] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-76 => Starts => Waiting 8027 => Counter 247
+2023-03-11T23:07:46.218-03:00  INFO 271418 --- [io-8080-exec-76] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-76 => Waiting 8027 => Counter 247
+2023-03-11T23:07:46.228-03:00  INFO 271418 --- [io-8080-exec-49] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-49 => Starts => Waiting 9931 => Counter 248
+2023-03-11T23:07:46.228-03:00  INFO 271418 --- [io-8080-exec-49] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-49 => Waiting 9931 => Counter 248
+2023-03-11T23:07:46.238-03:00  INFO 271418 --- [io-8080-exec-88] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-88 => Starts => Waiting 6451 => Counter 249
+2023-03-11T23:07:46.238-03:00  INFO 271418 --- [io-8080-exec-88] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-88 => Waiting 6451 => Counter 249
+2023-03-11T23:07:46.240-03:00  INFO 271418 --- [io-8080-exec-90] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-90 => Starts => Waiting 6224 => Counter 250
+2023-03-11T23:07:46.240-03:00  INFO 271418 --- [io-8080-exec-90] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-90 => Waiting 6224 => Counter 250
+2023-03-11T23:07:46.242-03:00  INFO 271418 --- [nio-8080-exec-7] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-7 => Starts => Waiting 9709 => Counter 251
+2023-03-11T23:07:46.242-03:00  INFO 271418 --- [nio-8080-exec-7] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-7 => Waiting 9709 => Counter 251
+2023-03-11T23:07:46.247-03:00  INFO 271418 --- [io-8080-exec-17] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-17 => Starts => Waiting 8794 => Counter 252
+2023-03-11T23:07:46.247-03:00  INFO 271418 --- [io-8080-exec-17] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-17 => Waiting 8794 => Counter 252
+2023-03-11T23:07:46.249-03:00  INFO 271418 --- [io-8080-exec-66] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-66 => Starts => Waiting 7372 => Counter 253
+2023-03-11T23:07:46.250-03:00  INFO 271418 --- [io-8080-exec-66] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-66 => Waiting 7372 => Counter 253
+2023-03-11T23:07:46.251-03:00  INFO 271418 --- [nio-8080-exec-5] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-5 => Starts => Waiting 8160 => Counter 254
+2023-03-11T23:07:46.251-03:00  INFO 271418 --- [io-8080-exec-64] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-64 => Starts => Waiting 5971 => Counter 255
+2023-03-11T23:07:46.251-03:00  INFO 271418 --- [nio-8080-exec-5] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-5 => Waiting 8160 => Counter 255
+2023-03-11T23:07:46.251-03:00  INFO 271418 --- [io-8080-exec-64] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-64 => Waiting 5971 => Counter 255
+2023-03-11T23:07:46.251-03:00  INFO 271418 --- [io-8080-exec-28] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-28 => Starts => Waiting 7919 => Counter 256
+2023-03-11T23:07:46.252-03:00  INFO 271418 --- [io-8080-exec-28] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-28 => Waiting 7919 => Counter 256
+2023-03-11T23:07:46.256-03:00  INFO 271418 --- [io-8080-exec-32] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-32 => Starts => Waiting 9103 => Counter 257
+2023-03-11T23:07:46.256-03:00  INFO 271418 --- [io-8080-exec-32] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-32 => Waiting 9103 => Counter 257
+2023-03-11T23:07:46.258-03:00  INFO 271418 --- [io-8080-exec-86] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-86 => Starts => Waiting 6327 => Counter 258
+2023-03-11T23:07:46.259-03:00  INFO 271418 --- [io-8080-exec-86] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-86 => Waiting 6327 => Counter 258
+2023-03-11T23:07:46.263-03:00  INFO 271418 --- [io-8080-exec-32] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-32 => Starts => Waiting 7563 => Counter 259
+2023-03-11T23:07:46.263-03:00  INFO 271418 --- [io-8080-exec-32] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-32 => Waiting 7563 => Counter 259
+2023-03-11T23:07:46.264-03:00  INFO 271418 --- [io-8080-exec-31] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-31 => Starts => Waiting 8802 => Counter 260
+2023-03-11T23:07:46.264-03:00  INFO 271418 --- [io-8080-exec-31] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-31 => Waiting 8802 => Counter 260
+2023-03-11T23:07:46.265-03:00  INFO 271418 --- [io-8080-exec-31] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-31 => Starts => Waiting 6325 => Counter 261
+2023-03-11T23:07:46.266-03:00  INFO 271418 --- [io-8080-exec-31] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-31 => Waiting 6325 => Counter 261
+2023-03-11T23:07:46.269-03:00  INFO 271418 --- [io-8080-exec-78] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-78 => Starts => Waiting 9854 => Counter 262
+2023-03-11T23:07:46.271-03:00  INFO 271418 --- [io-8080-exec-78] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-78 => Waiting 9854 => Counter 262
+2023-03-11T23:07:46.274-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Starts => Waiting 5978 => Counter 263
+2023-03-11T23:07:46.274-03:00  INFO 271418 --- [io-8080-exec-39] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-39 => Waiting 5978 => Counter 263
+2023-03-11T23:07:46.281-03:00  INFO 271418 --- [io-8080-exec-68] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-68 => Starts => Waiting 5554 => Counter 264
+2023-03-11T23:07:46.281-03:00  INFO 271418 --- [io-8080-exec-68] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-68 => Waiting 5554 => Counter 264
+2023-03-11T23:07:46.284-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Starts => Waiting 6044 => Counter 267
+2023-03-11T23:07:46.284-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Starts => Waiting 5444 => Counter 267
+2023-03-11T23:07:46.285-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Waiting 5444 => Counter 268
+2023-03-11T23:07:46.286-03:00  INFO 271418 --- [io-8080-exec-37] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-37 => Starts => Waiting 7191 => Counter 269
+2023-03-11T23:07:46.286-03:00  INFO 271418 --- [io-8080-exec-37] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-37 => Waiting 7191 => Counter 269
+2023-03-11T23:07:46.284-03:00  INFO 271418 --- [io-8080-exec-74] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-74 => Starts => Waiting 6689 => Counter 268
+2023-03-11T23:07:46.285-03:00  INFO 271418 --- [io-8080-exec-85] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-85 => Waiting 6044 => Counter 268
+2023-03-11T23:07:46.286-03:00  INFO 271418 --- [io-8080-exec-74] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-74 => Waiting 6689 => Counter 269
+2023-03-11T23:07:46.287-03:00  INFO 271418 --- [io-8080-exec-37] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-37 => Starts => Waiting 5542 => Counter 270
+2023-03-11T23:07:46.288-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Starts => Waiting 8330 => Counter 271
+2023-03-11T23:07:46.288-03:00  INFO 271418 --- [io-8080-exec-42] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-42 => Waiting 8330 => Counter 271
+2023-03-11T23:07:46.288-03:00  INFO 271418 --- [io-8080-exec-22] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-22 => Starts => Waiting 6681 => Counter 272
+2023-03-11T23:07:46.288-03:00  INFO 271418 --- [io-8080-exec-22] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-22 => Waiting 6681 => Counter 272
+2023-03-11T23:07:46.287-03:00  INFO 271418 --- [io-8080-exec-37] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-37 => Waiting 5542 => Counter 270
+2023-03-11T23:07:46.283-03:00  INFO 271418 --- [io-8080-exec-48] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-48 => Starts => Waiting 8688 => Counter 265
+2023-03-11T23:07:46.291-03:00  INFO 271418 --- [io-8080-exec-48] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-48 => Waiting 8688 => Counter 272
+2023-03-11T23:07:46.293-03:00  INFO 271418 --- [nio-8080-exec-3] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-3 => Starts => Waiting 9898 => Counter 273
+2023-03-11T23:07:46.293-03:00  INFO 271418 --- [nio-8080-exec-3] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-3 => Waiting 9898 => Counter 273
+2023-03-11T23:07:46.295-03:00  INFO 271418 --- [io-8080-exec-36] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-36 => Starts => Waiting 5017 => Counter 274
+2023-03-11T23:07:46.295-03:00  INFO 271418 --- [io-8080-exec-36] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-36 => Waiting 5017 => Counter 274
+2023-03-11T23:07:46.297-03:00  INFO 271418 --- [io-8080-exec-62] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-62 => Starts => Waiting 6068 => Counter 275
+2023-03-11T23:07:46.297-03:00  INFO 271418 --- [io-8080-exec-62] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-62 => Waiting 6068 => Counter 275
+2023-03-11T23:07:46.298-03:00  INFO 271418 --- [io-8080-exec-36] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-36 => Starts => Waiting 9741 => Counter 276
+2023-03-11T23:07:46.298-03:00  INFO 271418 --- [io-8080-exec-36] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-36 => Waiting 9741 => Counter 276
+2023-03-11T23:07:46.299-03:00  INFO 271418 --- [io-8080-exec-56] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-56 => Starts => Waiting 7575 => Counter 278
+2023-03-11T23:07:46.299-03:00  INFO 271418 --- [io-8080-exec-27] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-27 => Starts => Waiting 7215 => Counter 277
+2023-03-11T23:07:46.299-03:00  INFO 271418 --- [io-8080-exec-56] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-56 => Waiting 7575 => Counter 278
+2023-03-11T23:07:46.299-03:00  INFO 271418 --- [io-8080-exec-27] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-27 => Waiting 7215 => Counter 278
+2023-03-11T23:07:46.300-03:00  INFO 271418 --- [io-8080-exec-27] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-27 => Starts => Waiting 7174 => Counter 279
+2023-03-11T23:07:46.301-03:00  INFO 271418 --- [io-8080-exec-56] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-56 => Starts => Waiting 6310 => Counter 280
+2023-03-11T23:07:46.301-03:00  INFO 271418 --- [io-8080-exec-27] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-27 => Waiting 7174 => Counter 280
+2023-03-11T23:07:46.301-03:00  INFO 271418 --- [io-8080-exec-56] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-56 => Waiting 6310 => Counter 280
+2023-03-11T23:07:46.302-03:00  INFO 271418 --- [io-8080-exec-56] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-56 => Starts => Waiting 7370 => Counter 281
+2023-03-11T23:07:46.302-03:00  INFO 271418 --- [io-8080-exec-62] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-62 => Starts => Waiting 7292 => Counter 282
+2023-03-11T23:07:46.302-03:00  INFO 271418 --- [io-8080-exec-62] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-62 => Waiting 7292 => Counter 282
+2023-03-11T23:07:46.303-03:00  INFO 271418 --- [io-8080-exec-56] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-56 => Waiting 7370 => Counter 282
+2023-03-11T23:07:46.303-03:00  INFO 271418 --- [io-8080-exec-62] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-62 => Starts => Waiting 9928 => Counter 283
+2023-03-11T23:07:46.303-03:00  INFO 271418 --- [io-8080-exec-62] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-62 => Waiting 9928 => Counter 283
+2023-03-11T23:07:46.304-03:00  INFO 271418 --- [io-8080-exec-56] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-56 => Starts => Waiting 9041 => Counter 284
+2023-03-11T23:07:46.304-03:00  INFO 271418 --- [io-8080-exec-56] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-56 => Waiting 9041 => Counter 284
+2023-03-11T23:07:46.304-03:00  INFO 271418 --- [io-8080-exec-62] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-62 => Starts => Waiting 6644 => Counter 285
+2023-03-11T23:07:46.304-03:00  INFO 271418 --- [io-8080-exec-62] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-62 => Waiting 6644 => Counter 285
+2023-03-11T23:07:46.304-03:00  INFO 271418 --- [io-8080-exec-27] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-27 => Starts => Waiting 5524 => Counter 286
+2023-03-11T23:07:46.304-03:00  INFO 271418 --- [io-8080-exec-27] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-27 => Waiting 5524 => Counter 286
+2023-03-11T23:07:46.308-03:00  INFO 271418 --- [nio-8080-exec-2] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-2 => Starts => Waiting 7812 => Counter 287
+2023-03-11T23:07:46.308-03:00  INFO 271418 --- [nio-8080-exec-2] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-2 => Waiting 7812 => Counter 287
+2023-03-11T23:07:46.308-03:00  INFO 271418 --- [io-8080-exec-34] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-34 => Starts => Waiting 5049 => Counter 287
+2023-03-11T23:07:46.309-03:00  INFO 271418 --- [io-8080-exec-34] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-34 => Waiting 5049 => Counter 287
+2023-03-11T23:07:46.311-03:00  INFO 271418 --- [io-8080-exec-34] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-34 => Starts => Waiting 6282 => Counter 288
+2023-03-11T23:07:46.311-03:00  INFO 271418 --- [io-8080-exec-34] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-34 => Waiting 6282 => Counter 288
+2023-03-11T23:07:46.312-03:00  INFO 271418 --- [io-8080-exec-21] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-21 => Starts => Waiting 8596 => Counter 289
+2023-03-11T23:07:46.312-03:00  INFO 271418 --- [io-8080-exec-21] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-21 => Waiting 8596 => Counter 289
+2023-03-11T23:07:46.313-03:00  INFO 271418 --- [io-8080-exec-21] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-21 => Starts => Waiting 8220 => Counter 290
+2023-03-11T23:07:46.313-03:00  INFO 271418 --- [io-8080-exec-21] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-21 => Waiting 8220 => Counter 290
+2023-03-11T23:07:46.314-03:00  INFO 271418 --- [io-8080-exec-21] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-21 => Starts => Waiting 6006 => Counter 291
+2023-03-11T23:07:46.314-03:00  INFO 271418 --- [io-8080-exec-21] com.java.threadpool.ThreadController     : Thread name http-nio-8080-exec-21 => Waiting 6006 => Counter 291
+2023-03-11T23:07:51.245-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-32 => Ends 5317
+2023-03-11T23:07:51.705-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-57 => Ends 5775
+2023-03-11T23:07:52.414-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-55 => Ends 6486
+2023-03-11T23:07:52.610-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-43 => Ends 6683
+2023-03-11T23:07:52.853-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-37 => Ends 6926
+2023-03-11T23:07:53.095-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-62 => Ends 7162
+2023-03-11T23:07:54.026-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-13 => Ends 8098
+2023-03-11T23:07:55.077-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-7 => Ends 9150
+2023-03-11T23:07:57.054-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-26 => Ends 11127
+2023-03-11T23:07:57.158-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-56 => Ends 11223
+2023-03-11T23:08:00.471-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-34 => Ends 14544
+2023-03-11T23:08:01.184-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-20 => Ends 15248
+2023-03-11T23:08:01.208-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-45 => Ends 15271
+2023-03-11T23:08:01.274-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-60 => Ends 15338
+2023-03-11T23:08:01.592-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-51 => Ends 15655
+2023-03-11T23:08:02.405-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-5 => Ends 16478
+2023-03-11T23:08:05.702-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-50 => Ends 19774
+2023-03-11T23:08:06.139-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-6 => Ends 20202
+2023-03-11T23:08:06.382-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-4 => Ends 20445
+2023-03-11T23:08:06.704-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-15 => Ends 20777
+2023-03-11T23:08:07.240-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-53 => Ends 21303
+2023-03-11T23:08:08.502-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-8 => Ends 22575
+2023-03-11T23:08:10.066-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-48 => Ends 24139
+2023-03-11T23:08:12.172-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-1 => Ends 26230
+2023-03-11T23:08:12.240-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-19 => Ends 26313
+2023-03-11T23:08:12.994-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-12 => Ends 27050
+2023-03-11T23:08:13.730-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-16 => Ends 27784
+2023-03-11T23:08:15.163-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-25 => Ends 29220
+2023-03-11T23:08:16.070-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-47 => Ends 30133
+2023-03-11T23:08:18.446-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-65 => Ends 32501
+2023-03-11T23:08:18.463-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-35 => Ends 32517
+2023-03-11T23:08:19.689-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-64 => Ends 33744
+2023-03-11T23:08:19.877-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-54 => Ends 33940
+2023-03-11T23:08:21.725-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-59 => Ends 35797
+2023-03-11T23:08:21.875-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-9 => Ends 35929
+2023-03-11T23:08:22.992-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-46 => Ends 37055
+2023-03-11T23:08:24.698-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-42 => Ends 38752
+2023-03-11T23:08:25.070-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-66 => Ends 39123
+2023-03-11T23:08:25.976-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-28 => Ends 40028
+2023-03-11T23:08:28.247-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-30 => Ends 42299
+2023-03-11T23:08:28.641-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-67 => Ends 42694
+2023-03-11T23:08:28.765-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-2 => Ends 42818
+2023-03-11T23:08:29.589-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-39 => Ends 43642
+2023-03-11T23:08:29.840-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-33 => Ends 43893
+2023-03-11T23:08:31.566-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-41 => Ends 45618
+2023-03-11T23:08:32.519-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-61 => Ends 46586
+2023-03-11T23:08:33.770-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-52 => Ends 47833
+2023-03-11T23:08:34.840-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-29 => Ends 48892
+2023-03-11T23:08:35.858-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-68 => Ends 49910
+2023-03-11T23:08:36.337-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-49 => Ends 50400
+2023-03-11T23:08:37.588-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-18 => Ends 51651
+2023-03-11T23:08:38.651-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-10 => Ends 52703
+2023-03-11T23:08:39.792-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-24 => Ends 53843
+2023-03-11T23:08:40.491-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-14 => Ends 54542
+2023-03-11T23:08:42.497-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-63 => Ends 56548
+2023-03-11T23:08:43.595-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-44 => Ends 57656
+2023-03-11T23:08:44.442-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-69 => Ends 58493
+2023-03-11T23:08:45.585-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-22 => Ends 59635
+2023-03-11T23:08:45.649-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-31 => Ends 59710
+2023-03-11T23:08:45.934-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-11 => Ends 59984
+2023-03-11T23:08:46.154-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-17 => Ends 60204
+2023-03-11T23:08:47.195-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-3 => Ends 61245
+2023-03-11T23:08:48.983-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-23 => Ends 63033
+2023-03-11T23:08:50.020-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-36 => Ends 64070
+2023-03-11T23:08:52.333-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-71 => Ends 66382
+2023-03-11T23:08:53.299-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-38 => Ends 67349
+2023-03-11T23:08:53.441-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-40 => Ends 67514
+2023-03-11T23:08:54.225-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-72 => Ends 68273
+2023-03-11T23:08:54.440-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-58 => Ends 68490
+2023-03-11T23:08:54.727-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-70 => Ends 68776
+2023-03-11T23:08:56.559-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-74 => Ends 70607
+2023-03-11T23:08:58.825-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-73 => Ends 72872
+2023-03-11T23:08:59.009-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-27 => Ends 73072
+2023-03-11T23:09:00.479-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-21 => Ends 74520
+2023-03-11T23:09:01.040-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-75 => Ends 75086
+2023-03-11T23:09:01.406-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-76 => Ends 75451
+2023-03-11T23:09:01.871-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-80 => Ends 75912
+2023-03-11T23:09:03.764-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-77 => Ends 77805
+2023-03-11T23:09:04.739-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-82 => Ends 78779
+2023-03-11T23:09:06.032-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-81 => Ends 80068
+2023-03-11T23:09:06.446-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-78 => Ends 80484
+2023-03-11T23:09:07.887-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-83 => Ends 81924
+2023-03-11T23:09:09.029-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-86 => Ends 83061
+2023-03-11T23:09:09.263-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-87 => Ends 83293
+2023-03-11T23:09:10.027-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-85 => Ends 84061
+2023-03-11T23:09:11.563-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-88 => Ends 85590
+2023-03-11T23:09:12.323-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-38 => Ends 86344
+2023-03-11T23:09:13.030-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-86 => Ends 87051
+2023-03-11T23:09:15.026-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-38 => Ends 89046
+2023-03-11T23:09:16.038-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-86 => Ends 90057
+2023-03-11T23:09:18.287-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-85 => Ends 92304
+2023-03-11T23:09:18.398-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-19 => Ends 92416
+2023-03-11T23:09:18.950-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-25 => Ends 92966
+2023-03-11T23:09:19.229-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-38 => Ends 93247
+2023-03-11T23:09:20.014-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-47 => Ends 94031
+2023-03-11T23:09:21.396-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-61 => Ends 95413
+2023-03-11T23:09:24.279-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-25 => Ends 98294
+2023-03-11T23:09:25.156-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-48 => Ends 99170
+2023-03-11T23:09:26.184-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-61 => Ends 100198
+2023-03-11T23:09:26.733-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-89 => Ends 100745
+2023-03-11T23:09:27.043-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-15 => Ends 101058
+2023-03-11T23:09:27.757-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-75 => Ends 101774
+2023-03-11T23:09:27.759-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-55 => Ends 101780
+2023-03-11T23:09:28.161-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-79 => Ends 102195
+2023-03-11T23:09:29.814-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-85 => Ends 103824
+2023-03-11T23:09:33.707-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-1 => Ends 107715
+2023-03-11T23:09:33.832-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-10 => Ends 107842
+2023-03-11T23:09:34.885-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-86 => Ends 108899
+2023-03-11T23:09:35.627-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-85 => Ends 109636
+2023-03-11T23:09:35.730-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-47 => Ends 109745
+2023-03-11T23:09:36.016-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-21 => Ends 110023
+2023-03-11T23:09:36.148-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-43 => Ends 110164
+2023-03-11T23:09:37.507-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-81 => Ends 111517
+2023-03-11T23:09:42.742-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-3 => Ends 116745
+2023-03-11T23:09:43.050-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-39 => Ends 117055
+2023-03-11T23:09:43.185-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-20 => Ends 117188
+2023-03-11T23:09:43.365-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-78 => Ends 117365
+2023-03-11T23:09:43.607-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-16 => Ends 117617
+2023-03-11T23:09:45.081-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-2 => Ends 119083
+2023-03-11T23:09:45.472-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-33 => Ends 119474
+2023-03-11T23:09:45.888-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-27 => Ends 119891
+2023-03-11T23:09:48.735-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-85 => Ends 122735
+2023-03-11T23:09:48.859-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-90 => Ends 122853
+2023-03-11T23:09:49.650-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-44 => Ends 123646
+2023-03-11T23:09:50.091-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-55 => Ends 124091
+2023-03-11T23:09:50.879-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-19 => Ends 124868
+2023-03-11T23:09:51.023-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-10 => Ends 125019
+2023-03-11T23:09:53.792-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-35 => Ends 127780
+2023-03-11T23:09:54.267-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-84 => Ends 128225
+2023-03-11T23:09:55.071-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-24 => Ends 129060
+2023-03-11T23:09:55.117-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-79 => Ends 129073
+2023-03-11T23:09:56.678-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-35 => Ends 130665
+2023-03-11T23:09:56.916-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-18 => Ends 130873
+2023-03-11T23:09:58.352-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-50 => Ends 132308
+2023-03-11T23:09:59.173-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-31 => Ends 133128
+2023-03-11T23:09:59.218-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-73 => Ends 133172
+2023-03-11T23:10:00.297-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-18 => Ends 134248
+2023-03-11T23:10:01.103-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-82 => Ends 135057
+2023-03-11T23:10:03.126-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-58 => Ends 137078
+2023-03-11T23:10:03.496-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-58 => Ends 137446
+2023-03-11T23:10:05.197-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-41 => Ends 139146
+2023-03-11T23:10:06.072-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-39 => Ends 140021
+2023-03-11T23:10:06.946-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-50 => Ends 140894
+2023-03-11T23:10:08.165-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-39 => Ends 142113
+2023-03-11T23:10:08.352-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-57 => Ends 142301
+2023-03-11T23:10:08.850-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-57 => Ends 142797
+2023-03-11T23:10:11.356-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-57 => Ends 145302
+2023-03-11T23:10:12.329-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-39 => Ends 146276
+2023-03-11T23:10:13.203-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-82 => Ends 147147
+2023-03-11T23:10:13.460-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-57 => Ends 147404
+2023-03-11T23:10:14.566-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-33 => Ends 148515
+2023-03-11T23:10:14.685-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-82 => Ends 148630
+2023-03-11T23:10:15.232-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-84 => Ends 149182
+2023-03-11T23:10:18.102-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-57 => Ends 152045
+2023-03-11T23:10:18.684-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-33 => Ends 152625
+2023-03-11T23:10:18.978-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-41 => Ends 152920
+2023-03-11T23:10:19.349-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-18 => Ends 153290
+2023-03-11T23:10:19.752-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-58 => Ends 153692
+2023-03-11T23:10:20.524-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-18 => Ends 154464
+2023-03-11T23:10:20.870-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-41 => Ends 154809
+2023-03-11T23:10:21.862-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-41 => Ends 155802
+2023-03-11T23:10:24.944-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-84 => Ends 158883
+2023-03-11T23:10:25.309-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-84 => Ends 159246
+2023-03-11T23:10:25.831-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-42 => Ends 159768
+2023-03-11T23:10:26.053-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-58 => Ends 159992
+2023-03-11T23:10:26.475-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-39 => Ends 160421
+2023-03-11T23:10:28.784-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-50 => Ends 162721
+2023-03-11T23:10:29.584-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-18 => Ends 163520
+2023-03-11T23:10:31.129-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-78 => Ends 165051
+2023-03-11T23:10:31.197-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-23 => Ends 165124
+2023-03-11T23:10:33.498-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-42 => Ends 167414
+2023-03-11T23:10:33.752-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-64 => Ends 167679
+2023-03-11T23:10:33.903-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-38 => Ends 167816
+2023-03-11T23:10:34.925-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-78 => Ends 168848
+2023-03-11T23:10:35.624-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-42 => Ends 169533
+2023-03-11T23:10:36.419-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-13 => Ends 170330
+2023-03-11T23:10:38.198-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-38 => Ends 172106
+2023-03-11T23:10:39.556-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-48 => Ends 173464
+2023-03-11T23:10:40.308-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-82 => Ends 174214
+2023-03-11T23:10:42.244-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-42 => Ends 176152
+2023-03-11T23:10:42.291-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-81 => Ends 176200
+2023-03-11T23:10:42.553-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-43 => Ends 176465
+2023-03-11T23:10:43.106-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-74 => Ends 177013
+2023-03-11T23:10:43.317-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-22 => Ends 177221
+2023-03-11T23:10:46.798-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-11 => Ends 180709
+2023-03-11T23:10:47.438-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-84 => Ends 181341
+2023-03-11T23:10:48.160-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-65 => Ends 182062
+2023-03-11T23:10:48.342-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-29 => Ends 182242
+2023-03-11T23:10:49.997-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-9 => Ends 183898
+2023-03-11T23:10:50.979-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-38 => Ends 184880
+2023-03-11T23:10:51.475-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-29 => Ends 185376
+2023-03-11T23:10:51.499-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-11 => Ends 185396
+2023-03-11T23:10:55.177-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-19 => Ends 189064
+2023-03-11T23:10:55.190-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-54 => Ends 189080
+2023-03-11T23:10:55.253-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-75 => Ends 189145
+2023-03-11T23:10:56.690-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-58 => Ends 190577
+2023-03-11T23:10:56.710-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-44 => Ends 190588
+2023-03-11T23:10:59.318-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-24 => Ends 193204
+2023-03-11T23:10:59.966-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-47 => Ends 193852
+2023-03-11T23:11:00.061-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-58 => Ends 193941
+2023-03-11T23:11:00.977-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-21 => Ends 194849
+2023-03-11T23:11:02.142-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-45 => Ends 196013
+2023-03-11T23:11:02.230-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-44 => Ends 196106
+2023-03-11T23:11:03.599-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-41 => Ends 197470
+2023-03-11T23:11:03.964-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-46 => Ends 197839
+2023-03-11T23:11:07.995-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-41 => Ends 201864
+2023-03-11T23:11:08.368-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-85 => Ends 202236
+2023-03-11T23:11:08.558-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-53 => Ends 202428
+2023-03-11T23:11:08.736-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-85 => Ends 202606
+2023-03-11T23:11:09.681-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-66 => Ends 203550
+2023-03-11T23:11:11.089-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-66 => Ends 204957
+2023-03-11T23:11:11.638-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-41 => Ends 205506
+2023-03-11T23:11:13.033-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-66 => Ends 206899
+2023-03-11T23:11:14.600-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-45 => Ends 208464
+2023-03-11T23:11:15.768-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-41 => Ends 209633
+2023-03-11T23:11:16.728-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-14 => Ends 210593
+2023-03-11T23:11:17.810-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-85 => Ends 211676
+2023-03-11T23:11:18.106-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-92 => Ends 211969
+2023-03-11T23:11:18.181-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-40 => Ends 212045
+2023-03-11T23:11:18.768-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-41 => Ends 212631
+2023-03-11T23:11:21.676-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-77 => Ends 215537
+2023-03-11T23:11:21.851-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-17 => Ends 215717
+2023-03-11T23:11:22.399-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-53 => Ends 216261
+2023-03-11T23:11:22.792-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-1 => Ends 216651
+2023-03-11T23:11:23.671-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-43 => Ends 217510
+2023-03-11T23:11:23.732-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-37 => Ends 217570
+2023-03-11T23:11:26.054-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-68 => Ends 219910
+2023-03-11T23:11:26.529-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-82 => Ends 220366
+2023-03-11T23:11:27.332-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-74 => Ends 221165
+2023-03-11T23:11:29.019-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-22 => Ends 222851
+2023-03-11T23:11:29.589-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-26 => Ends 223406
+2023-03-11T23:11:30.775-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-13 => Ends 224594
+2023-03-11T23:11:31.335-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-13 => Ends 225153
+2023-03-11T23:11:32.298-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-16 => Ends 226115
+2023-03-11T23:11:33.625-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-51 => Ends 227440
+2023-03-11T23:11:34.203-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-12 => Ends 228021
+2023-03-11T23:11:34.771-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-61 => Ends 228588
+2023-03-11T23:11:34.771-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-20 => Ends 228590
+2023-03-11T23:11:36.682-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-29 => Ends 230494
+2023-03-11T23:11:37.192-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-3 => Ends 231009
+2023-03-11T23:11:37.767-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-52 => Ends 231586
+2023-03-11T23:11:38.757-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-33 => Ends 232569
+2023-03-11T23:11:39.094-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-55 => Ends 232902
+2023-03-11T23:11:40.363-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-11 => Ends 234167
+2023-03-11T23:11:41.100-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-2 => Ends 234902
+2023-03-11T23:11:42.422-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-2 => Ends 236223
+2023-03-11T23:11:43.034-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-18 => Ends 236828
+2023-03-11T23:11:45.366-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-57 => Ends 239149
+2023-03-11T23:11:45.778-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-47 => Ends 239579
+2023-03-11T23:11:46.895-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-81 => Ends 240696
+2023-03-11T23:11:48.051-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-46 => Ends 241844
+2023-03-11T23:11:48.853-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-87 => Ends 242636
+2023-03-11T23:11:49.048-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-40 => Ends 242832
+2023-03-11T23:11:51.062-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-76 => Ends 244844
+2023-03-11T23:11:51.166-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-92 => Ends 244949
+2023-03-11T23:11:52.229-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-88 => Ends 245991
+2023-03-11T23:11:53.119-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-90 => Ends 246879
+2023-03-11T23:11:55.297-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-49 => Ends 249069
+2023-03-11T23:11:56.420-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-66 => Ends 250171
+2023-03-11T23:11:57.137-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-64 => Ends 250886
+2023-03-11T23:11:57.647-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-17 => Ends 251400
+2023-03-11T23:11:57.761-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-7 => Ends 251520
+2023-03-11T23:11:59.222-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-5 => Ends 252971
+2023-03-11T23:12:00.149-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-28 => Ends 253898
+2023-03-11T23:12:01.625-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-86 => Ends 255367
+2023-03-11T23:12:02.222-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-32 => Ends 255966
+2023-03-11T23:12:03.972-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-31 => Ends 257707
+2023-03-11T23:12:03.984-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-32 => Ends 257721
+2023-03-11T23:12:05.201-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-39 => Ends 258927
+2023-03-11T23:12:05.703-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-68 => Ends 259422
+2023-03-11T23:12:05.939-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-31 => Ends 259675
+2023-03-11T23:12:07.069-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-42 => Ends 260785
+2023-03-11T23:12:07.615-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-78 => Ends 261346
+2023-03-11T23:12:08.267-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-85 => Ends 261983
+2023-03-11T23:12:10.673-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-74 => Ends 264389
+2023-03-11T23:12:10.743-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-37 => Ends 264456
+2023-03-11T23:12:11.164-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-37 => Ends 264878
+2023-03-11T23:12:12.621-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-22 => Ends 266333
+2023-03-11T23:12:13.284-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-36 => Ends 266989
+2023-03-11T23:12:14.033-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-42 => Ends 267745
+2023-03-11T23:12:15.757-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-48 => Ends 269474
+2023-03-11T23:12:16.741-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-62 => Ends 270444
+2023-03-11T23:12:17.513-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-3 => Ends 271220
+2023-03-11T23:12:18.739-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-56 => Ends 272440
+2023-03-11T23:12:19.836-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-27 => Ends 273537
+2023-03-11T23:12:20.343-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-56 => Ends 274042
+2023-03-11T23:12:20.458-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-27 => Ends 274158
+2023-03-11T23:12:20.484-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-36 => Ends 274186
+2023-03-11T23:12:23.050-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-62 => Ends 276748
+2023-03-11T23:12:24.112-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-56 => Ends 277810
+2023-03-11T23:12:25.533-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-34 => Ends 279225
+2023-03-11T23:12:25.868-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-27 => Ends 279564
+2023-03-11T23:12:26.480-03:00  INFO 271418 --- [         task-7] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-62 => Ends 280176
+2023-03-11T23:12:27.441-03:00  INFO 271418 --- [         task-8] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-62 => Ends 281138
+2023-03-11T23:12:27.780-03:00  INFO 271418 --- [         task-4] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-56 => Ends 281476
+2023-03-11T23:12:28.271-03:00  INFO 271418 --- [         task-1] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-2 => Ends 281963
+2023-03-11T23:12:29.332-03:00  INFO 271418 --- [         task-5] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-34 => Ends 283021
+2023-03-11T23:12:31.874-03:00  INFO 271418 --- [         task-2] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-21 => Ends 285560
+2023-03-11T23:12:32.708-03:00  INFO 271418 --- [         task-3] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-21 => Ends 286396
+2023-03-11T23:12:33.754-03:00  INFO 271418 --- [         task-6] com.java.threadpool.ThreadService        : Thread name http-nio-8080-exec-21 => Ends 287441
+
